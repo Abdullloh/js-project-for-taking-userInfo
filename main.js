@@ -61,7 +61,7 @@ function myFunction(name){
         }
         
         if ((userInfo.name)&&(userInfo.adress)&&(userInfo.phone)&&(userInfo.age)&&(userInterests === 'Front End')&& (lessonType)&&(frontEnduser.language)&&(frontEnduser.programmingLanguage)&&(wantDiscount)){
-              alert('Tabriklaymiz ' + userInfo.name + 'siz Back End kursimizga muvofaqiyatli yozildiz')
+              alert('Tabriklaymiz ' + userInfo.name + 'siz Front End kursimizga muvofaqiyatli yozildiz')
         }
         else{
             alert('Ma\'lumotlar to\'liq emas')
